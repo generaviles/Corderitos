@@ -1,0 +1,6 @@
+book_filename: "corderitos_guia"
+language:
+  ui:
+    chapter_name: "Sección "
+delete_merged_file: true
+output_dir: "docs"
