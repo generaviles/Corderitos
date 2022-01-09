@@ -2,7 +2,7 @@
 title: "Guía para la Clase de Corderitos"
 subtitle: "Club de Aventureros 'Corales', Iglesia Adventista del Séptimo Día, Ensenada 14."
 author: "'Consejero': Gener Avilés-R "
-date: "`r Sys.Date()`"
+date: "Período 2021-2022"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
