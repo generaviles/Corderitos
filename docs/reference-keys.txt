@@ -9,7 +9,10 @@ mi-dios
 yo-mismo
 mi-familia
 mi-mundo
-calendario-de-actividades
+calendario
+actividades
+febrero-2022
+de-febrero-de-2022
 especialidades-realizadas
 sábado-11-de-diciembre-mi-amigo-jesús
 actividad-1-jesús-fué-bondadoso-con-sus-amigos
